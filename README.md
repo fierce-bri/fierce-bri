@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Aphiwe
 - 👀 I'm a final year student passionate about game development, NLP, AI and animation.
-- 🌱 I’m currently learning advanced programming in C++, NLP, databases and computer systems
+- 🌱 I’m currently learning Theory of Computation, Graphics and Modelling, Software design and Artificial Intelligence
 - 💞️ I'm always looking for opportunities to expand my skills and collaborate with others on exciting projects.
 - Some of my recent projects include:
     EspioQuest: An adventure game set in the Scottish Highlands, where players must solve riddles and trivia questions to progress through the game.
