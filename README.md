@@ -1,11 +1,8 @@
 - 👋 Hi, I'm Aphiwe
-- 👀 I'm a final year student passionate about game development, NLP, AI and animation.
-- 🌱 I’m currently learning Theory of Computation, Graphics and Modelling, Software design and Artificial Intelligence
+- 👀 I'm a Computer Science graduate
+- 🌱 I’m currently developing a game project and continuosly learning new technologies along the way. I enjoy solving problems, experimenting with ideas, and turning concepts into working systems.
 - 💞️ I'm always looking for opportunities to expand my skills and collaborate with others on exciting projects.
-- Some of my recent projects include:
-    EspioQuest: An adventure game set in the Scottish Highlands, where players must solve riddles and trivia questions to progress through the game.
-    TextRank-based Text Summarizer: An NLP project that uses the TextRank algorithm to automatically generate summaries of text documents.
-    Checkers Game: A classic board game implemented in code.
+- 📖 Big fan of fantasy worldbuilding and interactive storytelling
 I'm proficient in a range of programming languages and tools, including C++, Python, and Unity.
 - 📫 How to reach me : @brii4592 on Discord
 
