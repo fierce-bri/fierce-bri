@@ -15,14 +15,14 @@
 - Maintaining selected game-development projects as part of my wider software portfolio
   
 💞️ Selected Repositories
-TextRank-based Text Summarizer:
-- An extractive NLP summarization project using text preprocessing, TF-IDF sentence similarity, graph construction, and PageRank-style sentence ranking.
-Literature Lab AI Chatbot: 
-- A work-in-progress Python and Django creative-writing assistant focused on user input, response generation, and web-based interaction.
-EspioQuest: 
-- A C++ adventure and quiz game featuring question handling, player progression, interactive gameplay flow, and structured application logic.
-Checkers Game: 
-- A Java Swing board game demonstrating Object-Oriented Programming, event handling, turn logic, movement validation, and game-state management.
+- TextRank-based Text Summarizer:
+An extractive NLP summarization project using text preprocessing, TF-IDF sentence similarity, graph construction, and PageRank-style sentence ranking.
+- Literature Lab AI Chatbot: 
+A work-in-progress Python and Django creative-writing assistant focused on user input, response generation, and web-based interaction.
+- EspioQuest: 
+A C++ adventure and quiz game featuring question handling, player progression, interactive gameplay flow, and structured application logic.
+- Checkers Game: 
+A Java Swing board game demonstrating Object-Oriented Programming, event handling, turn logic, movement validation, and game-state management.
 
 Technologies
 C++ C# Java Python SQL Cocos2d-x Godot Unity OpenGL Git GitHub
