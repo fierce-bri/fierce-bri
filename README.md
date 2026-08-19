@@ -1,15 +1,14 @@
 👋 Hi, I'm Aphiwe Mzulwini
-Software Developer | Game Developer | AI Trainer
 - I am a BSc Computer Science and Information Technology graduate with a strong background in C++ and experience building interactive systems, debugging software, evaluating AI-generated code, and explaining programming concepts clearly.
 - I currently work in a hybrid Game Developer / AI Trainer role, primarily using Cocos2d-x and Godot. My broader experience includes C#, Java, Python, SQL, Unity, OpenGL, Object-Oriented Programming, code review, and structured technical feedback.
   
-🌱 What I Work On:
+🌱 What I Work On
 - C++ development, application logic, gameplay systems, UI behaviour, input handling, state management, and debugging
 - AI code evaluation, requirement checking, error identification, and feedback on technical outputs
 - Python and NLP projects involving text processing and AI-assisted applications
 - Java and Object-Oriented Programming, supported by university tutoring experience
   
-👀 Current Focus:
+👀 Current Focus
 - Rebuilding my TextRank summarizer into a reusable Python service and API
 - Improving Literature Lab into a clean and documented web-based writing assistant
 - Developing stronger skills in backend development, API design, databases, automated testing, and Docker workflows
