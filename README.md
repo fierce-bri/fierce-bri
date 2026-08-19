@@ -29,9 +29,9 @@ Technologies
 C++ C# Java Python SQL Cocos2d-x Godot Unity OpenGL Git GitHub
 
 📫 Contact
-Email: mzulwiniaphiwe269@gmail.com
-LinkedIn: linkedin.com/in/aphiwe-mzulwini-310214318
-Location: Cape Town, South Africa
+- Email: mzulwiniaphiwe269@gmail.com
+- LinkedIn: linkedin.com/in/aphiwe-mzulwini-310214318
+- Location: Cape Town, South Africa
 
 I am open to opportunities in software development, game development, AI code evaluation, and related technical roles.
 Outside development, I enjoy creative writing and fantasy worldbuilding, particularly where narrative and interactive systems meet.
