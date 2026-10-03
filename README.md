@@ -1,5 +1,5 @@
 👋 Hi, I'm Aphiwe Mzulwini
-- I am a BSc Computer Science and Information Technology graduate with a strong background in C++ and experience building interactive systems, debugging software, evaluating AI-generated code, and explaining programming concepts clearly.
+- I am a BSc Computer Science and Information Technology graduate with a strong background in C++ and experience building interactive systems, and debugging software.
 - I currently work in a hybrid Game Developer / AI Trainer role, primarily using Cocos2d-x and Godot. My broader experience includes C#, Java, Python, SQL, Unity, OpenGL, Object-Oriented Programming, code review, and structured technical feedback.
   
 🌱 What I Work On
@@ -32,7 +32,7 @@ C++ C# Java Python SQL Cocos2d-x Godot Unity OpenGL Git GitHub
 - LinkedIn: linkedin.com/in/aphiwe-mzulwini-310214318
 - Location: Cape Town, South Africa
 
-I am open to opportunities in software development, game development, AI code evaluation, and related technical roles.
+I am open to opportunities in software development, game development, and related technical roles.
 Outside development, I enjoy creative writing and fantasy worldbuilding, particularly where narrative and interactive systems meet.
 
 <!---
