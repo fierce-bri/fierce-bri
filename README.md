@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF2E97&height=190&section=header&text=Aphiwe%20Mzulwini&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Game%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20C%2B%2B&descAlignY=72&descSize=18" alt="Aphiwe Mzulwini banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF2E97&height=200&section=header&fontAlignY=36&text=Aphiwe%20Mzulwini&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Game%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20C%2B%2B&descAlignY=56&descSize=18" alt="Aphiwe Mzulwini banner" />
 </p>
 
 <p align="center">
